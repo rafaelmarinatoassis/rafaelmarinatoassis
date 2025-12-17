@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rafael Marinato Assis
+# Olá, eu sou o Rafael Marinato Assis
 
 Sou **técnico em Desenvolvimento de Sistemas** e atualmente estou cursando graduação em **Engenharia de Software**. Tenho interesse geral em tecnologia, desenvolvimento de software, soluções digitais e IOT buscando evoluir tanto na parte técnica quanto conceitual da área.
 
